@@ -1,0 +1,1 @@
+Switched to using polyphony_rnn built-in magenta model, keeping this config model downloaded if I wanted to use MusicVAE
